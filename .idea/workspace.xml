@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="678bb557-2382-4ade-b436-965611a5d67b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapi" beforeDir="false" afterPath="$PROJECT_DIR$/webapi" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapi/webapi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/webapi/webapi/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +86,7 @@
       <workItem from="1782182571539" duration="1188000" />
       <workItem from="1782266752955" duration="27000" />
       <workItem from="1782266798997" duration="1251000" />
+      <workItem from="1782359512324" duration="451000" />
     </task>
     <task id="LOCAL-00001" summary="class that represents data that the app manages.">
       <option name="closed" value="true" />
