@@ -10,10 +10,7 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="678bb557-2382-4ade-b436-965611a5d67b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/webapi" beforeDir="false" afterPath="$PROJECT_DIR$/webapi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapi/webapi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/webapi/webapi/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="678bb557-2382-4ade-b436-965611a5d67b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +85,7 @@
       <workItem from="1782266798997" duration="1251000" />
       <workItem from="1782359512324" duration="451000" />
       <workItem from="1782442840439" duration="620000" />
+      <workItem from="1782617283588" duration="270000" />
     </task>
     <task id="LOCAL-00001" summary="class that represents data that the app manages.">
       <option name="closed" value="true" />
@@ -121,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782100592927</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Language Integrated Query (LINQ)">
+      <option name="closed" value="true" />
+      <created>1782617563989</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782617563989</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +141,8 @@
     <MESSAGE value="The DI container provides access to the database context and other services." />
     <MESSAGE value="Adding new lines for the Program.cs + this new changes will need to be test as quickly as possible" />
     <MESSAGE value="Test Pasxss" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Pasxss" />
+    <MESSAGE value="Language Integrated Query (LINQ)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Language Integrated Query (LINQ)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
