@@ -10,7 +10,9 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="678bb557-2382-4ade-b436-965611a5d67b" name="Changes" comment="" />
+    <list default="true" id="678bb557-2382-4ade-b436-965611a5d67b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +90,7 @@
       <workItem from="1782617283588" duration="270000" />
       <workItem from="1782703630535" duration="59000" />
       <workItem from="1782792542097" duration="335000" />
+      <workItem from="1782907087563" duration="989000" />
     </task>
     <task id="LOCAL-00001" summary="class that represents data that the app manages.">
       <option name="closed" value="true" />
