@@ -18,3 +18,6 @@ app.Run();
 //dotnet ef migrations add InitialCreate
 //3. Ejecutar la construcción
 //dotnet ef database update
+//Text is required for the notes 
+
+//sd
