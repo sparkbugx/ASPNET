@@ -11,5 +11,3 @@ var app = builder.Build();
 app.MapGet("/", () =>  "THE API IS ALIVE");
 
 app.Run();
-
-//I adjust the set up of the database plus documentation will be read
